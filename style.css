@@ -1,0 +1,36 @@
+body {
+  background-color: #decc7a;
+}
+
+header {
+  background-color: white;
+  border: 4px solid purple;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3.link {
+  text-align: center;
+}
+
+a:visited {
+  color: blue;
+}
+
+table.stappen {
+  border: 1px solid brown;
+  border-collapse: collapse;
+}
+
+table.stappen th {
+  border: 1px solid brown;
+}
+table.stappen td {
+  border: 1px solid brown;
+}
